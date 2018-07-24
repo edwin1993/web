@@ -1,0 +1,8 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^posventas\.grupovalor\.com\.co$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.posventas\.grupovalor\.com\.co$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "https\:\/\/posventas\.yolasite\.com" [R=301,L]
+

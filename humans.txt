@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Ledy Rodriguez -- Designer
+    Giovanny Betancourt Gutiérrez -- Developer @GeoSaboti
+
+# THANKS
+
+    Grupo Valor S.A
+    Grupomedia Digital
+    web http://grupomediadigital.com/
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
