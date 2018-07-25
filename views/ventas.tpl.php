@@ -53,7 +53,7 @@
 
             <section class="content-projects-novedades">
               <!--prueba-->
-              <article class="item-novedades n6" data-id="6">
+              <article class="item-novedades n1" data-id="1">
                 <figure><img src="img/proyectos/En venta/Fotos pequenas/valenti.jpg"></figure>
                 <div class="project-title-novedades">
                   <p>VALENTI</p>
@@ -62,8 +62,18 @@
                   <i class="fa fa-search"></i>
                 </div>
               </article>
+
+              <article class="item-novedades n2" data-id="2">
+                <figure><img src="img/proyectos/En venta/Fotos pequenas/33-dc.jpg"></figure>
+                <div class="project-title-novedades">
+                  <p>33 DC</p>
+                </div>
+                <div class="overlaygv">
+                  <i class="fa fa-search"></i>
+                </div>
+              </article>
               <!--fin prueba-->
-              <article class="item-novedades n1" data-id="1">
+              <article class="item-novedades n3" data-id="3">
                 <figure><img src="img/proyectos/En venta/Fotos pequenas/1p_03.jpg"></figure>
                 <div class="project-title-novedades">
                   <p>MORATTO 44</p>
@@ -72,7 +82,7 @@
                   <i class="fa fa-search"></i>
                 </div>
               </article>
-              <article class="item-novedades n2" data-id="2">
+              <article class="item-novedades n4" data-id="4">
                 <figure><img src="img/proyectos/En venta/Fotos pequenas/1p_05.jpg"></figure>
                 <div class="project-title-novedades">
                   <p>IROTAMA RESERVADO.</p>
@@ -81,7 +91,7 @@
                   <i class="fa fa-search"></i>
                 </div>
               </article>
-              <article class="item-novedades n3" data-id="3">
+              <article class="item-novedades n5" data-id="5">
                 <figure><img src="img/proyectos/En venta/Fotos pequenas/1p_07.jpg"></figure>
                 <div class="project-title-novedades">
                   <p>STUDIO 106.</p>
@@ -90,7 +100,7 @@
                   <i class="fa fa-search"></i>
                 </div>
               </article>
-              <article class="item-novedades n4"  data-id="4">
+              <article class="item-novedades n6"  data-id="6">
                 <figure><img src="img/proyectos/En venta/Fotos pequenas/1p_09.jpg"></figure>
                 <div class="project-title-novedades">
                   <p>PARQUE DE LA CASTELLANA.</p>
@@ -99,7 +109,7 @@
                   <i class="fa fa-search"></i>
                 </div>
               </article>
-              <article class="item-novedades n5"  data-id="5">
+              <article class="item-novedades n7"  data-id="7">
                 <figure><img src="img/proyectos/En venta/Fotos pequenas/1p_11.jpg"></figure>
                 <div class="project-title-novedades">
                   <p>MORARI 105.</p>
@@ -111,6 +121,189 @@
             </section>
             <!--continuar aqui-->
             <section class="info-novedades contentnovedades contentprogv" id="n1">
+              <figure>
+                <div class="flexslider" >
+                  <ul class="slides">
+                    <li>
+                      <a href="">
+                        <img src="img/proyectos/En venta/VALENTI/1.jpg" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <img src="img/proyectos/En venta/VALENTI/2.jpg" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <img src="img/proyectos/En venta/VALENTI/3.jpg" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <img src="img/proyectos/En venta/VALENTI/4.jpg" />
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </figure>
+              <article>
+                <h2>
+                  VALENTI
+                </h2>
+                <p>
+                  Carrera 93 no. 54 – 28. Bosa el Porvenir <br>
+                  Bogotá, D.C.
+                </p>
+
+                <a class="ver-proyecto" href="http://proyectovalenti.com/" target="_blank">
+                  Ver Proyecto
+                </a>
+
+                <p>
+                  <strong>VALENTI</strong>  apartamentos es un nuevo proyecto que llega a Bosa - El Porvenir para transformar la manera de vivir, con zonas comunes, espacios que darán a las familias momentos llenos de felicidad y ubicación privilegiada en la localidad.<br>
+                  <strong>Etapa 1:</strong> 257 apartamentos- 20 pisos<br>
+                  <strong>Etapa 2:</strong> 257 apartamentos - 20 pisos.<br>
+                  <strong>Zonas comunes.</strong>   Spa para mascotas- Lavandería comunal - Taller de bicicletas- Terrazas BBQ y huerta- Cocina comunal- Gimnasio- Guardería infantil- Sala de juegos - Sala de estudio<br>
+                  <strong>Área:</strong>    45 M2 construidos-  40 M2 privada.
+
+                </p>
+
+                <h2>Contacto</h2>
+
+                <div class="content-contacto-pro">
+                  <p>
+                    Sitio web: <br>
+                    <a class="link-sitio-web" href="http://proyectovalenti.com/" target="_blank">http://proyectovalenti.com/</a>
+                  </p>
+                  <p>
+                    Correo electronico: <br> <a href="mailto:jefe.valenti@grupovalor.com.co">jefe.valenti@grupovalor.com.co</a>
+                  </p>
+                  <p>
+                    Telefonos: <br><a href="tel:6956523">6956523</a> - <a href="tel:6956565">6956565</a><br>
+                    Celular: <br><a href="tel: 316 8662142"> 316 8662142</a>
+                  </p>
+                </div>
+
+               <!-- Your share button code -->
+                  <div class="sharedButtonsgv">
+                    <div class="fb-share-button"
+                        data-href="http://proyectovalenti.com/"
+                        data-layout="button">
+                    </div>
+                    &nbsp;
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://proyectovalenti.com/" data-lang="es" data-count="none">Twittear</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                  </div>
+
+              </article>
+            </section>
+            <!--finaliza  aqui-->
+            <section class="info-novedades contentnovedades contentprogv" id="n2">
+              <figure>
+                <div class="flexslider" >
+                  <ul class="slides">
+                    <li>
+                      <a href="">
+                        <img src="img/proyectos/En venta/33-DC/1.jpg" />
+                      </a>
+                    </li>
+                    <!--
+                    <li>
+                      <a href="">
+                        <img src="" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <img src="" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <img src="" />
+                      </a>
+                    </li>
+                  -->
+                  </ul>
+                </div>
+              </figure>
+              <article>
+                <h2>
+                  33 DC - “TU CIUDAD DENTRO DE LA CIUDAD”
+                </h2>
+                <p>
+                   Avenida caracas no. 33 – 50
+                   Ciudad: Bogotá, D.C.
+                </p>
+
+                <a class="ver-proyecto" href="http://33dc.com.co/" target="_blank">
+                  Ver Proyecto
+                </a>
+
+                <p>
+                  <strong>33 DC</strong> está en una de las zonas con mayor desarrollo de la ciudad, localizado en un sitio con fácil acceso a las mejores universidades de Colombia y en medio de un destacado centro empresarial.
+                  517 residencias estudiantiles - 105 apartamentos de vivienda. 
+                  <strong>Zonas esparcimiento:</strong> Piscina, gimnasio, terrazas y BBQ<br>
+                  Zonas verdes de uso exclusivo,
+                  Sala de juegos y video juegos,
+                  Zonas sociales,
+                  Cooking lounge,
+                  Cafetería<br>
+                  <strong>Zonas de servicio:</strong> Zonas comerciales
+                  3 Niveles de parqueadero, y 1 sótano*<br>
+                  Lavandería*,
+                  Taller de Bicicletas,
+                  Vending Machines*,
+                  Lobby,
+                  Oratorio,
+                  Parqueaderos públicos*<br>
+                  <strong>Zonas de estudio:</strong> Zona de plotter*,
+                  Taller de arte,
+                  Salas de estudio,
+                  Lounge de computadores,
+                  Salas audiovisuales,<br>
+                   
+                  Las zonas señaladas con asterisco hacen parte de las zonas gestionadas por el operador del proyecto. Los ingresos que se generen harán parte de la bolsa económica del proyecto de residencias, que si es positivo, será distribuido entre los propietarios de las unidades.<br>
+                   
+                  <strong>Nota:</strong>  Los locales comerciales, cafetería, gimnasio y la terraza del último piso, son bienes privados administrados por terceros por ende, NO son zonas comunes de la Copropiedad.
+
+
+
+                </p>
+
+                <h2>Contacto</h2>
+
+                <div class="content-contacto-pro">
+                  <p>
+                    Sitio web: <br>
+                    <a class="link-sitio-web" href="http://33dc.com.co/" target="_blank">http://33dc.com.co/</a>
+                  </p>
+                  <p>
+                    Correo electronico: <br> <a href="mailto: smunoz@estrategiascomerciales.co">smunoz@estrategiascomerciales.co</a>
+                     <strong>Sebastian Muñoz Director Proyecto</strong>
+                  </p>
+                  <p>
+                    Telefono: <br><a href="tel:9277613">9277613</a><br>
+                    Celular: <br><a href="tel: 3124332986"> 3124332986</a>
+                  </p>
+                </div>
+
+               <!-- Your share button code -->
+                  <div class="sharedButtonsgv">
+                    <div class="fb-share-button"
+                        data-href="http://33dc.com.co/"
+                        data-layout="button">
+                    </div>
+                    &nbsp;
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://proyectovalenti.com/" data-lang="es" data-count="none">Twittear</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                  </div>
+
+              </article>
+            </section>
+            <!--hasta aqui va el otro-->
+            <section class="info-novedades contentnovedades contentprogv" id="n3">
               <figure>
                 <div class="flexslider" >
                   <ul class="slides">
@@ -183,7 +376,7 @@
               </article>
             </section>
 
-            <section class="info-novedades contentnovedades contentprogv" id="n2">
+            <section class="info-novedades contentnovedades contentprogv" id="n4">
               <figure>
                 <div class="flexslider" >
                   <ul class="slides">
@@ -257,7 +450,7 @@
               </article>
             </section>
 
-            <section class="info-novedades contentnovedades contentprogv" id="n3">
+            <section class="info-novedades contentnovedades contentprogv" id="n5">
               <figure>
                 <div class="flexslider" >
                   <ul class="slides">
@@ -333,7 +526,7 @@
               </article>
             </section>
 
-            <section class="info-novedades contentnovedades contentprogv" id="n4">
+            <section class="info-novedades contentnovedades contentprogv" id="n6">
               <figure>
                 <div class="flexslider" >
                   <ul class="slides">
@@ -409,7 +602,7 @@
               </article>
             </section>
 
-            <section class="info-novedades contentnovedades contentprogv" id="n5">
+            <section class="info-novedades contentnovedades contentprogv" id="n7">
               <figure>
                 <div class="flexslider" >
                   <ul class="slides">

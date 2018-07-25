@@ -53,6 +53,20 @@
                     </li>
                     <li>
                       <a href="ventas">
+                        <img src="img/proyectos/En venta/33-dc.jpg"  />
+                      </a>
+                      <div class="slider-top-title slider-top-title-proyectos">
+                        <p>EN VENTA</p>
+                      </div>
+                      <div class="proyectos-nombre-proyecto">
+                        <p>
+                          <a href="ventas">33 DC</a>
+                        </p>
+                      </div>
+                      <?php include 'includes/ventasinfo.php' ?>
+                    </li>
+                    <li>
+                      <a href="ventas">
                         <img src="img/proyectos/En venta/1_02.jpg"  />
                       </a>
                       <div class="slider-top-title slider-top-title-proyectos">
